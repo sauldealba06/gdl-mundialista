@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gdl-mundialista.vercel.app/sitemap.xml
